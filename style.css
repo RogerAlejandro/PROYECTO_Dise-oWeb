@@ -1,0 +1,115 @@
+body {
+  background-color: #f1f2f3;
+}
+.icono {
+  margin-left: 30px;
+}
+.botonregistrarse {
+  margin-right: 60px;
+  border: 10px solid white;
+  height: 50px;
+  color: white;
+}
+.cajarapiten {
+  text-align: center;
+  color: white;
+  font-family: fuentetitulo;
+  font-size: 100px;
+}
+.cajanav {
+  text-align: center;
+}
+.cajaheader {
+  height: 550px;
+  background-color: #2a2e31;
+}
+.cajatitulo {
+  font-size: 130px;
+  color: white;
+  text-align: center;
+  padding-top: 140px;
+  text-shadow: -5px 5px 50px;
+  font-family: fuentetitulo;
+}
+.cajatitulo2 {
+  text-align: center;
+  font-family: lucesitas;
+  font-size: 100px;
+}
+.cajatitulo3 {
+  text-align: center;
+  font-family: navidad;
+  font-size: 100px;
+}
+.cajacomprar {
+  padding-top: 20px;
+  font-family: navidad2;
+  font-size: 100px;
+  background-color: #2a2e31;
+  color: white;
+  text-align: center;
+  text-shadow: -5px 0px 10px;
+}
+
+.cajaquienes {
+  
+  background-color: #f1f2f3;
+  border: 8px solid white;
+  border-radius: 10px;
+  text-align: center;
+}
+.botoncomprar {
+  border: 3px solid black;
+  border-radius: 6px;
+  color: black;
+  background-color: #ffbfa3;
+}
+.cajacomidas {
+  height: 350px;
+  background-color: #4f4f4f;
+  color: white;
+  overflow-y: auto;
+}
+.cajatrujillo {
+    font-family: ciudad;
+  background-color: #f1f2f3;
+  border-radius: 10px;
+  border: 10px solid white;
+}
+.cajapiura {
+    font-family: ciudad;
+  background-color: #f1f2f3;
+  border-radius: 10px;
+  border: 10px solid white;
+}
+
+.cajafooter {
+  color: white;
+  background-color: #2a2e31;
+  text-align: center;
+}
+p+img{
+  border-radius: 10px ;
+}
+
+
+@font-face {
+  font-family: fuentetitulo;
+  src: url(fuentes/fresh_lychee/Fresh\ Lychee.ttf);
+}
+@font-face {
+  font-family: lucesitas;
+  src: url(fuentes/christmas_lights/ChristmasLightsIndoor.ttf);
+}
+@font-face {
+  font-family: navidad;
+  src: url(fuentes/christmas_squad/Christmas\ Squad\ -\ Personal\ Use.otf);
+}
+@font-face {
+  font-family: navidad2;
+  src: url(fuentes/christmas_time_2/Christmas\ Time\ Star\ Personal\ Use.ttf);
+}
+@font-face {
+  font-family: ciudad;
+  src: url(fuentes/fresh_lychee/Fresh\ Lychee.ttf);
+}
